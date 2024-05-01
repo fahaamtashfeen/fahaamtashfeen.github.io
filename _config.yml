@@ -21,8 +21,8 @@
 title: fahaam.tech
   #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-This is where I display updates on my projects, what I'm learning, and other more abstract ideas. I hope I can document much of the journey of my various doings in order to serve as inspiration or insight. I learn my own lessons, and maybe you can pick up a few of your own whilst seeing where I may have picked up mine.
- baseurl: "" # the subpath of your site, e.g. /blog
+  This is where I display updates on my projects, what I'm learning, and other more abstract ideas. I hope I can document much of the journey of my various doings in order to serve as inspiration or insight. I learn my own lessons, and maybe you can pick up a few of your own whilst seeing where I may have picked up mine.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fahaamdev
 github_username:  fahaamtashfeen
