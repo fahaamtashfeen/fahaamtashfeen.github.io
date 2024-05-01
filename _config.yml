@@ -21,14 +21,16 @@
 title: fahaam.tech
   #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where I display updates on my projects, what I'm learning, and other more abstract ideas. I hope I can document much of the journey of my various doings in order to serve as inspiration or insight. I learn my own lessons, and maybe you can pick up a few of your own whilst seeing where I may have picked up mine.
+  This is where I display updates on my projects, what I'm learning, and other more abstract ideas. I hope I can document much of the journey of my various doings in order to serve as inspiration or insight. I learn my own lessons, and maybe you can pick up a few of your own whilst seeing where I may have picked up mine. See more in about.
+
+  This is meant to be one of many steps from 'learning' to 'agnency'. Where I take all that I've learned and am learning and actually apply it. The final goal is to make contributions that are useful. The more useful, the more successful I shall consider it under my rudimentary metrics. Simplicity is a keystone for this goal. We do not want to overcomplicate things to where usefulness is being sacrificed.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fahaamdev
 github_username:  fahaamtashfeen
 
 # Build settings
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
 
