@@ -4,4 +4,4 @@ source "https://rubygems.org"
 gemspec
 
 # for demo site
-gem "hitchens-theme"
+gem "jekyll-paginate"

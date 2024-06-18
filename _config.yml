@@ -7,51 +7,39 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: fahaam.tech
-  #email: your-email@example.com
+title: Hitchens
+email: hello@patdryburgh.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where I display updates on my projects, what I'm learning, and other more abstract ideas. I hope I can document much of the journey of my various doings in order to serve as inspiration or insight. I learn my own lessons, and maybe you can pick up a few of your own whilst seeing where I may have picked up mine. See more in about.
-
-  This is meant to be one of many steps from 'learning' to 'agnency'. Where I take all that I've learned and am learning and actually apply it. The final goal is to make contributions that are useful. The more useful, the more successful I shall consider it under my rudimentary metrics. Simplicity is a keystone for this goal. We do not want to overcomplicate things to where usefulness is being sacrificed.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: fahaamdev
-github_username:  fahaamtashfeen
+  An inarguably well-designed Jekyll theme.
+baseurl: "/hitchens" # the subpath of your site, e.g. /blog
+url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+icon: /assets/images/icon-512.png
+twitter_username: patdryburgh
+github_username:  patdryburgh
 
 # Build settings
-remote_theme: patdryburgh/hitchens
-plugins:
-  - jekyll-remote-theme
+markdown: kramdown
 
-
-ignore_theme_config: true
 # Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules/
+#   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+plugins:
+  - jekyll-paginate
+
+paginate: 3
+paginate_path: "/page/:num/"
