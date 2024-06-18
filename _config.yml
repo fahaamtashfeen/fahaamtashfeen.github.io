@@ -18,7 +18,7 @@ email: temp
 description: >- # this means to ignore newlines until "baseurl:"
   A journal for my tech related work, ideas and thoughts. Anywhere from a few words to very lengthy.
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
-url: "https://fahaamtashfeen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fahaam.tech/" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/iconMy.png
 twitter_username: fahaamdev
 github_username:  fahaamtashfeen
