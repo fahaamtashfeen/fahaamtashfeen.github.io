@@ -6,4 +6,4 @@ gemspec
 # for demo site
 gem "jekyll-paginate"
 
-gem "hitchens-theme"
+# gem "hitchens-theme"
