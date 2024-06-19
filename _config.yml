@@ -30,6 +30,7 @@ hide_search: true
 
 remote_theme: patdryburgh/hitchens
 # Build settings
+#
 markdown: kramdown
 
 # Exclude from processing.
