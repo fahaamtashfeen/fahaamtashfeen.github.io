@@ -13,13 +13,13 @@ I'm certain I will continue to iterate them, and my understanding of them. These
 
 1. **Minimum Viable Product (MVP)** What's the simplest working version of the product? Strive for that. 
 
-> However, I find I approach this differently than many novice software engineers. They tend to completely neglect the security and understanding of their own code in favour of having what they consider a working product. Not only do I approach this differently, the mindset going in is different. I don't consider that a working product. If anything it's a vulnerability. ChatGPT and LLMs have also made this problem far more prominent. That being said, I'm also building different projects than some of them. For example, since one of my current projects is an ecommerce website with login functionality. This requires more attention initial attention to security for an MVP. 
+> However, I find I approach this differently than many novice software engineers. They tend to completely neglect the security and understanding of their own code in favour of having what they consider a working product. Not only do I approach this differently, the mindset going in is different. I don't consider that a working product. If anything it's a vulnerability. ChatGPT and LLMs have also made this problem far more prominent. That being said, I'm also building different projects than some of those engineers. For example, since one of my current projects is an Ecommerce website with login functionality. This requires more initial attention to security for an MVP. 
 
-> Then, even with the security and code understanding, I tend to include slightly more in the MVP than others might. If it's a feature unique to my product, and something I consider essential to branding and perception, then I will ensure that, that feature is considered as part of the MVP since it might have ripple effects for the future of the product or business. 
+> Then, even with the security and code understanding, I tend to include slightly more in the MVP than others might. If there is a feature unique to my product, and something I consider essential to branding and perception, then I will include it in the MVP with zero compromises since it might have ripple effects for the future of the product or business. 
 
 2. **Speed**
 
-Simple. Speed wins, and there are things that can be done in a much shorter period of time than you're used to.
+Simple. Speed wins, and there are things that can be done in a much shorter period of time than you're used to. Think 'The 4 Minute Mile'.
 
 3. **Share**
 
