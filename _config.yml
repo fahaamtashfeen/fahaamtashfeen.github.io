@@ -28,6 +28,7 @@ feed_icon: /assets/images/iconMy.png
 hide_credits: true
 hide_search: true
 
+remote_theme: hitchens-theme
 # Build settings
 markdown: kramdown
 
