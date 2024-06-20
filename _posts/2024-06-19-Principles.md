@@ -28,7 +28,7 @@ Document your journey and progress as much as possible whilst ensuring the focus
 
 #### P.S.
 
-For some reason, the list on this page is rendering all of the indivdual points as it's own list, hence the three 1's rather than 2, 3, and so forth. My markdown formatting should be correct as I've tested the pure markdown file in a markdown viewer and everything works perfectly fine there. It might be either an issue with this theme's CSS or an issue with Kramdown but I'm not familiar with Kramdown myself and not sure if such an issue can arise as a result of it. I've spent a decent time debugging it. It's time to move on to the main project at hand. But I will revisit this, especially for future posts.
+For some reason, the list on this page is rendering all of the individual points as it's own list, hence the three 1's rather than 2, 3, and so forth. My markdown formatting should be correct as I've tested the pure markdown file in a markdown viewer and everything works perfectly fine there. It might be either an issue with this theme's CSS or an issue with Kramdown but I'm not familiar with Kramdown myself and not sure if such an issue can arise as a result of it. I've spent a decent time debugging it. It's time to move on to the main project at hand. But I will revisit this, especially for future posts.
 
 In the meantime though, I unintentionally have a Tim Grover style list (everything is equally important to follow). Though this is not what I want for this particular list.
 
