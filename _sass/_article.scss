@@ -63,3 +63,12 @@
   text-decoration: none;
   text-transform: uppercase;
 }
+
+
+.post-date {
+  color: $date-text-color;
+}
+
+.post .post-date {
+  color: $post-page-date-color;
+}

@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Fahaam.Dev
+title: Fahaam.Tech
 email: temp
 description: >- # this means to ignore newlines until "baseurl:"
-  A journal for my tech related work, ideas and thoughts. Anywhere from a few words to very lengthy.
+  A journal for my tech related work, ideas, and thoughts. Anywhere from a few words to very lengthy.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://fahaam.tech" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/iconMy.png
@@ -28,7 +28,9 @@ feed_icon: /assets/images/iconMy.png
 hide_credits: true
 hide_search: true
 
+remote_theme: patdryburgh/hitchens
 # Build settings
+#
 markdown: kramdown
 
 theme: hitchens-theme
