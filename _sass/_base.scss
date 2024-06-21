@@ -162,6 +162,10 @@ figcaption {
   }
 } */
 
+body .skip-navigation {
+  display: none !important;
+}
+
 ol {
     list-style-type: decimal;
     margin-left: 20px; // Adjust as needed
