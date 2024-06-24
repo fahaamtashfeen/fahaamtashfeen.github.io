@@ -8,4 +8,4 @@ gem "jekyll-paginate"
 
 
 
- gem "hitchens-theme"
+
