@@ -28,12 +28,12 @@ feed_icon: /assets/images/iconMy.png
 hide_credits: true
 hide_search: true
 
-# remote_theme: patdryburgh/hitchens
+remote_theme: patdryburgh/hitchens
 # Build settings
 #
 markdown: kramdown
 
-theme: hitchens-theme
+# theme: hitchens-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
