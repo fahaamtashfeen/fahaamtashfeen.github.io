@@ -9,3 +9,11 @@ In Order of Priority.
 2. Learning Git Branches More
 3. Chipping Away at Blog and Streaming as Things Arise
 
+---
+
+Completed On Stream:
+
+- Fix blog issues and deploy minimum viable product
+- Add "Currently Working On" section for blog
+- Set up stream chat bot
+
