@@ -5,11 +5,9 @@ author: Fahaam
 category: updates
 ---
 
-For the Zenith Gallery website, there is a front-end and back-end. We finally connected them together. Meaning the 'users' will be able to see the products displayed (which reside in the back-end) on the front-end (user view). 
+For the Zenith Gallery website there is a front-end and back-end. We finally connected them together. Meaning the 'users' will be able to see the products displayed (which reside in the back-end) on the front-end (user view). 
 
-I'm focusing on the balance between technical content and jargon for my blog. Some of my friends have stated that it's cool but they have 'no idea what any of this means'. That's good feedback.
-
-Do I want to make the content more readable for everyone? Or stick to a very niche audience and word choice?
+I'm focusing on the balance between technical content and jargon for my blog. Some of my friends have stated that it's cool but they have 'no idea what any of this means'. That's good feedback. Do I want to make the content more readable for everyone? Or stick to a very niche audience and word choice?
 
 I think right now it's simply a matter of better communication in my content in general. And through that I will find the answer.
 
