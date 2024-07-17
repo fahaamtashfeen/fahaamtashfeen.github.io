@@ -2,7 +2,7 @@
 layout: post
 title: We Have Our Products Displayed!
 author: Fahaam
-category: updates
+category: Zenith
 ---
 
 For the Zenith Gallery website there is a front-end and back-end. We finally connected them together. Meaning the 'users' will be able to see the products displayed (which reside in the back-end) on the front-end (user view). 

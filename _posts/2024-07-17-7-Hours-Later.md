@@ -2,7 +2,7 @@
 layout: post
 title: 7 Hours Later
 author: Fahaam
-category: updates
+category: Zenith
 ---
 
 I've been working on google authentication for login on Zenith Gallery. Problem is, I made the code a lot more modular (took code from the express server and seperated it into a bunch of files). This is good practice for scalability, and sometimes readability.
