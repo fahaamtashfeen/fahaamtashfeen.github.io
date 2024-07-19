@@ -13,7 +13,9 @@ In Order of Priority.
 
 Completed On Stream:
 
+- Fixed and adjusted product display (19-07-24)
+- Fixed and adjusted google authentication for Zenith (19-07-24)
+- Added basic admin interface to add product to database for Zenith (19-07-24)
 - Fix blog issues and deploy minimum viable product
 - Add "Currently Working On" section for blog
 - Set up stream chat bot
-
