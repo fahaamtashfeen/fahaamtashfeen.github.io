@@ -13,6 +13,7 @@ In Order of Priority.
 
 Completed On Stream:
 
+- Write and Publish Blog Post (ik it's meta, 19-07-24)
 - Fixed and adjusted product display (19-07-24)
 - Fixed and adjusted google authentication for Zenith (19-07-24)
 - Added basic admin interface to add product to database for Zenith (19-07-24)
