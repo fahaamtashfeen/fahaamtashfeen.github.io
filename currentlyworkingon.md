@@ -14,6 +14,10 @@ In Order of Priority.
 
 Completed On Stream:
 
+- Coded and ran basic built-in led light script through WSL (24-07-24)
+- Downloaded and installed arduino-cli on WSL (24-07-24)
+- Downloaded alacritty and lightly configured not sure if will be using in future (24-07-24)
+- Off screen but on screen, set up and understood WSL usage further (did this off screen 24-07-24)
 - Set up Stripe payment system (separate page, and demo mode for now+) (20-07-24)
 - Took images of FL Studio Screen for both mastering chain and Fl Skin for "Inflame (Sample Tape)" (20-07-24)
 - Set up and used AWS to host 3d image (20-07-24)
