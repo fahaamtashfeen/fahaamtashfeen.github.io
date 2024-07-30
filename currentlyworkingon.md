@@ -6,14 +6,14 @@ title: Currently Working On
 In Order of Priority.
 
 1. Sample pack E-Commerce website "Zenith Gallery"
-2. Learn, use and therefore get comfortable with git branches
-
-
 
 ---
 
 Completed On Stream:
 
+
+
+- 
 - Coded and ran basic built-in led light script through WSL (24-07-24)
 - Downloaded and installed arduino-cli on WSL (24-07-24)
 - Downloaded alacritty and lightly configured not sure if will be using in future (24-07-24)
