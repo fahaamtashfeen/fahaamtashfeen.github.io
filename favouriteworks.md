@@ -6,7 +6,7 @@ title: Favourite Works
 ## Books:
 Holes by Louis Sachar. Read it in grade 3. First book I felt there was something profound about. I've never seen the movie.
 
-The Gods Themselves by Isaac Asimov. The best sci-fi novel I've read read so far.
+The Gods Themselves by Isaac Asimov. The best sci-fi novel I've read so far.
 
 
 
@@ -18,7 +18,7 @@ The Dark Knight.
 Basically any Scorcese movie. The Irishman is a masterpiece. Haven't seen dialogue like it in a movie since.
 
 ## Shows:
-Mr. Robot. The best show of all time. Created by Sam Esmail.
+Mr. Robot. The greatest show of all time. Created by Sam Esmail.
 
 Sherlock.
 
