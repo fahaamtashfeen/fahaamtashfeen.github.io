@@ -11,7 +11,7 @@ Halfway through the stream my friend Kash hopped in the chat and we started disc
 
 We ended up spending some of the stream debugging an issue she was having with getting the 3D model to actually appear on her page. She quickly set up her GitHub and before I knew it, I had her repo cloned. This was insane to me because it took me much longer than that to first get true collaborative use out of GitHub. Furthermore, I was able to organize her code a little bit and give her some basic pointers. She was also using Brackets to code this website which I wasn't familiar with before. I suggested VS Code sometime later and she is now using it regardless of the learning curve it poses.
 
-This was really great use of stream time for me.
+This was really great use of stream time for me. We did this on July 21st according to these stream logs. We have plenty more to catch up on, on this blog. 
 
 Till Next Time,
 Fahaam
