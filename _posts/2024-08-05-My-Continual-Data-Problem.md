@@ -14,6 +14,7 @@ I am ever creating. I always have been. And I've already lost projects and piece
 1) There is no concrete enough system to store my data (that I've devised)
   - It strongly depends on what concrete means and I'll get to that in a future post
   - Every time I have tried to sort this problem, I've realized how much bigger the problem really is (classic software engineer)
+
 2) The data is growing very quickly, very fast. This isn't something I can put off longer. The risks are FAR greater than any time or pain I'll be putting into this system therefore...
 
 Introducing Side Quest Not So Side Quest #2: Devise, and utilize consistently, a strong system of your data storage.
