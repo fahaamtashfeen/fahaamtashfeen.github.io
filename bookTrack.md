@@ -1,6 +1,4 @@
-# Textbook Tracker
-
-## Book Title: *C Programming: A Modern Approach by K.N. King*
+## *C Programming: A Modern Approach by K.N. King*
 
 ### Chapter List
 
@@ -24,7 +22,7 @@
 - [ ] Chapter 18: Declarations
 - [ ] Chapter 19: Program Design
 
-## Book Title: *Eloquent JavaScript*
+## *Eloquent JavaScript*
 
 ### Chapter List
 
