@@ -19,6 +19,7 @@ I am ever creating. I always have been. And I've already lost projects and piece
 Introducing Side Quest Not So Side Quest #2: Devise, and utilize consistently, a strong system of your data storage.
 
 P.S. There is more to this. If the only place have certain records of things are within your own memories then you run the risk of memory change and memory loss (the risk increasing as you age). This is a very silly way to do things if you really think about it. We also currently don't know enough about the brains and body to even understand such storage well as compared to computers. We know exactly how computers work, how and where their memory is stored, and what risks come with each system of storage.
-P.P.S. The day I wrote this, I lost twitch stream data due to a lack of a proper system. To be clear, it's not that I don't have places to store my data. This really is a system problem
+P.P.S. The day I wrote this, I lost twitch stream data due to a lack of a proper system. To be clear, it's not that I don't have places to store my data. This really is a system problem.
+
 Soon,
 Fahaam
