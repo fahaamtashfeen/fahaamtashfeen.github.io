@@ -13,8 +13,8 @@ Completed On Stream:
  
 - Coded and ran basic built-in led light script through WSL (24-07-24)
 - Downloaded and installed arduino-cli on WSL (24-07-24)
-- Downloaded alacritty and lightly configured not sure if will be using in future (24-07-24)
-- Off screen but on screen, set up and understood WSL usage further (did this off screen 24-07-24)
+- Downloaded alacritty and lightly configured not sure if will be using in future (24-07-24) (haven't used it, didnt want the gpu acceleration during stream, let the gpu deal with streaming for now)
+- set up and understood WSL usage further (did this off screen 24-07-24)
 - Rendered and Uploaded Audio Previews for Each Sample in Inflame Pack (22-07-24)
 - Helped my friend Kash troubleshoot her 3d model render on her website (21-07-24)
 - Set up Stripe payment system (separate page, and demo mode for now+) (20-07-24)
