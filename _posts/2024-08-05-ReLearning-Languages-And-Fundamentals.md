@@ -11,5 +11,7 @@ These "side quests" are actually fundamental to my understanding of computers an
 
 I'm going to make a section dedicated to tracking my progress within these books which you might see up soon. I'm making sure to do the exercises within the books. The whole 9.
 
+Edit (Oct 2, 2024): due to more pressing matters and topics (school etc), these books have been set aside for the time being
+
 Have A Great Day,
 Fahaam
